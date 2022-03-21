@@ -1,0 +1,43 @@
+.suggestion-card {
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding: 20px;
+  width: 90vw;
+  height: auto;
+}
+.time {
+  color: black;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.title {
+  margin-left: 6px;
+  font-size: 14px;
+  color: black;
+}
+.domain {
+  color: grey;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.delete-icon {
+  height: 16px;
+  width: 16px;
+}
